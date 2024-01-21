@@ -1,7 +1,6 @@
-# Bf Interpreter and Compiler in Scala
+# Bf Interpreter and Compiler in Scala December 2023
 
 Welcome to the Bf Interpreter and Compiler implemented in Scala!
-December 2023
 
 ## Overview
 
