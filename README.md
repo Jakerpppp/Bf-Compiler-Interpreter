@@ -17,7 +17,7 @@ This Scala project provides both an interpreter and a compiler for the Brainf**k
 
 ## Bf Language
 
-- Brainfuck consists of a simple set of commands, each represented by a single character.
+- Brainf**k consists of a simple set of commands, each represented by a single character.
 - The commands include `>`, `<`, `+`, `-`, `[`, `]`, `.`, and `,`.
 - The language operates on a memory tape with cells, and the commands manipulate the tape and its contents.
 
